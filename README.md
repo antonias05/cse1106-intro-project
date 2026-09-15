@@ -1,3 +1,11 @@
-# dummy text
+# Project Title
 
-## dummy text part2
+## Description
+
+## Technologies
+
+## How to Run
+
+## What I Learned
+
+## Future Improvements
